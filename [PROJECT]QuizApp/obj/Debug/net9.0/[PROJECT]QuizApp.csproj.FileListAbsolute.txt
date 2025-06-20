@@ -1,0 +1,14 @@
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/bin/Debug/net9.0/[PROJECT]QuizApp
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/bin/Debug/net9.0/[PROJECT]QuizApp.deps.json
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/bin/Debug/net9.0/[PROJECT]QuizApp.runtimeconfig.json
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/bin/Debug/net9.0/[PROJECT]QuizApp.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/bin/Debug/net9.0/[PROJECT]QuizApp.pdb
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/[PROJECT]QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/[PROJECT]QuizApp.AssemblyInfoInputs.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/[PROJECT]QuizApp.AssemblyInfo.cs
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/[PROJECT]QuizApp.csproj.CoreCompileInputs.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/[PROJECT]QuizApp.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/refint/[PROJECT]QuizApp.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/[PROJECT]QuizApp.pdb
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/[PROJECT]QuizApp.genruntimeconfig.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]QuizApp/obj/Debug/net9.0/ref/[PROJECT]QuizApp.dll
